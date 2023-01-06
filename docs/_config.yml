@@ -33,7 +33,7 @@ minima:
   social_links:
     - { platform: facebook, user_url: "https://facebook.com/trentjshea" }
     - { platform: github, user_url: "https://github.com/trentshea" }
-    - { platform: linkedin, user_url: "https://linkedin.com/trentshea" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/trentshea" }
     - { platform: twitter, user_url: "https://twitter.com/trentshea" }
 plugins:
   - jekyll-feed
