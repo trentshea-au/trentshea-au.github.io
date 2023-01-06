@@ -9,4 +9,4 @@ And again  we have something cursor
 
 again why is the cursorss.
 
-![some text](/docs/assets/images/locked-preview-title.png)
+![some text](/assets/images/locked-preview-title.png)
